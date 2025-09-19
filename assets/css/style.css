@@ -10,7 +10,7 @@ font-family: 'Poppins', sans-serif;
 
 
 /*=========== TABLE OF CONTENTS ===========
-1.  General css (Reset code)
+1.  General CSS (Reset code)
 2.  Header
 3.  Welcome-hero
 4.  About me 
@@ -23,7 +23,7 @@ font-family: 'Poppins', sans-serif;
 11. Contact
 
 /*-------------------------------------
-		1.General css (Reset code)
+		1. General CSS (Reset code)
 --------------------------------------*/
 *{
     padding: 0;
@@ -131,7 +131,7 @@ nav.navbar.bootsnav {
 nav.navbar.bootsnav ul.nav > li > a {
     font-size: 16px;
     font-weight: 400;
-    text-transform:uppercase;
+    text-transform: uppercase;
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
     -ms-transition: 0.3s linear; 
@@ -149,7 +149,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     margin-left: 15px;
 }
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a {color:#6a708e;}
-.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #d92cf9;}
+.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #1520A6;} /* #d92cf9 */
 /*.nav li*/
 
 
@@ -865,3 +865,4 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
