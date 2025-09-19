@@ -419,13 +419,14 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
    transition: width 1.5s ease-in-out;
 }
 .tooltip{
-   position:relative;
-   float:right;
+   position: relative;
+   float: right;
 }
 .tooltip > .tooltip-inner {
    background-color: transparent;
    padding: 1px 5px;
-   color: #b636ff;
+   color: #1520A6;
+	/* color: #b636ff  */
    font-weight: 500;
    font-size: 12px;
    border-radius: 0;
@@ -865,4 +866,5 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
