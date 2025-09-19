@@ -40,8 +40,8 @@ font-family: 'Poppins', sans-serif;
 body{
 	font-family: 'Poppins', sans-serif;
 	font-size:16px;
-	color: #676a81;
-	background: #fff;
+	color:  #1520A6;
+	background:  #1520A6;
     max-width:1920px;
     margin:0 auto;
 	overflow-x:hidden;
@@ -863,4 +863,5 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+
 /*========================Thank you=================
