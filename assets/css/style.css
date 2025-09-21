@@ -323,8 +323,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .about-list-icon ul li :hover{
     color: #ffffff93;
 }
+/*
 .about-list-icon ul li a i {
     margin-left: 6px;
+} */
+.about-list-icon ul li a i {
+    margin-left: 6.75px;
 }
 
 /*.ab-list-icon */
@@ -869,6 +873,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
 
 
