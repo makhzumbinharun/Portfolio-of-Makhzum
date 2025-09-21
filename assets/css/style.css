@@ -58,8 +58,8 @@ a,a:hover,a:active,a:focus {
 }
 h1,h2,h3,h4,h5,h6 { 
 	margin: 0;
-	/*color: #43485c; */
-	color: #1520A6;
+	color: #43485c;
+/*	color: #1520A6; */
     font-size: 16px;
 	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
@@ -869,6 +869,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
 
 
