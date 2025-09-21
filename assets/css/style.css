@@ -40,23 +40,26 @@ font-family: 'Poppins', sans-serif;
 body{
 	font-family: 'Poppins', sans-serif;
 	font-size:16px;
+	color: #676a81;
+	background: #fff;
 	/* color:  #1520A6; 
 	background:  #1520A6; */
     max-width:1920px;
     margin:0 auto;
-	overflow-x:hidden;
+	overflow-x: hidden;
 }
 
 a,a:hover,a:active,a:focus {
 	display:inline-block;
-	text-decoration:none;
+	text-decoration: none;
 	color: #6a708e;
 	font-size:16px;
 	padding:0;
 }
 h1,h2,h3,h4,h5,h6 { 
 	margin: 0;
-	color:#43485c;
+	/*color: #43485c; */
+	color: #1520A6;
     font-size: 16px;
 	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
@@ -866,6 +869,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
 
 
