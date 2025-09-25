@@ -193,10 +193,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position: relative;
-	background:url(../images/about/bg_v2.png)no-repeat;
-/*	background:url(../images/about/bg_v2.png)no-repeat;
-    background:url(../images/about/bg.jpg)no-repeat; */
-    background-size:cover;
+/*	background:url(../images/about/bg_v2.png)no-repeat; THIS ONE MAIN */
+/*	background:url(../images/about/bg_v2.png)no-repeat;*/
+    background:url(../images/about/bg.jpg)no-repeat;
+    background-size: cover;
     background-position: center;
     height:890px;
 }
@@ -875,6 +875,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
 
 
